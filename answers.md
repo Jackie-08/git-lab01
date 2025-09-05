@@ -22,4 +22,20 @@ Changes to be committed:
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 	answers.md
-6- 
+6- Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
+7- On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+8- commit 54aaf5e49a63686d1de35590dbcf5a9bc0ba70ed (HEAD -> master)
+Author: Jackie <jh846023@ohio.edu>
+Date:   Fri Sep 5 14:48:03 2025 -0400
+
+    Initial commit
+9- 
