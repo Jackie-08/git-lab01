@@ -39,4 +39,13 @@ Date:   Fri Sep 5 14:48:03 2025 -0400
 
     Initial commit
 9- The both file README.md and answers.md got uptated to my repository.
-10-
+10- No
+11- ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Jackie-08/git-lab01'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+12- Yes the cahnges I made was reflected.
+13-.  ..  .git  .gitignore  README.md
